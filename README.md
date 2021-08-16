@@ -90,13 +90,13 @@ I also used to get guest lectures from eg you, Marshall when neither Ron or I co
 |Sep 08  | #2      |Laurent | TBD
 |Sep 15  | #3      |Laurent | TBD (Anand Roman SRB doing CDR)
 |Sep 22  | #4      |Laurent    | TBD
-|Sep 29  | #5      |Laway    | TBD (Anand away 27-30)
-|Oct 06  | #6      |Laway    | TBD
-|Oct 13  | #7      |Laway   | TBD
-|Oct 20  | #8      |Laway  | TBD
-|Oct 27  | #9      |Laway   | TBD
-|Nov 03  | #10     |Anand | TBD
-|Nov 10  | #11     |Anand | TBD
+|Sep 29  | #5      |Radio    | TBD (Anand away 27-30)
+|Oct 06  | #6      |Anand    | TBD
+|Oct 13  | #7      |Anand   | TBD
+|Oct 20  | #8      |Anand  | TBD
+|Oct 27  | #9      |Anand/Laurent   | TBD
+|Nov 03  | #10     |Laurent | TBD
+|Nov 10  | #11     |Laurent | TBD
 |Nov 17  | #12     |         | TBD
 |Nov 24  |         |	     | THANKSGIVING
 |Dec 01  | #13     |Class    | Term paper presentations
