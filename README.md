@@ -86,7 +86,7 @@ I also used to get guest lectures from eg you, Marshall when neither Ron or I co
 
 | Date   | Class #  | Notes   | Topics
 |:------:|:-------:|-----------|--------------------------------------------------------------------------|
-|Sep 01  | #1      |Anand  | TBD
+|Sep 01  | #1      |Anand  | Pocket interferometer, coherence. 
 |Sep 08  | #2      |Laurent | TBD
 |Sep 15  | #3      |Laurent | TBD (Anand Roman SRB doing CDR)
 |Sep 22  | #4      |Laurent    | TBD
