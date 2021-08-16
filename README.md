@@ -86,19 +86,19 @@ I also used to get guest lectures from eg you, Marshall when neither Ron or I co
 
 | Date   | Class #  | Notes   | Topics
 |:------:|:-------:|-----------|--------------------------------------------------------------------------|
-|Sep 01  | #1      |Anand #1 | TBD
-|Sep 08  | #2      |Anand #2 | TBD
-|Sep 15  | #3      |Anand #3 | TBD (Anand Roman SRB doing CDR)
-|Sep 22  | #4      |Ron #1   | TBD
-|Sep 29  | #5      |Ron #2   | TBD (Anand away 27-30)
-|Oct 06  | #6      |Ron #3   | TBD
-|Oct 13  | #7      |Ron #4   | TBD
-|Oct 20  | #8      |Ron #5   | TBD
-|Oct 27  | #9      |Ron #6   | TBD
-|Nov 03  | #10     |Anand #4 | TBD
-|Nov 10  | #11     |Anand #5 | TBD
-|Nov 17  |         |         | TBD
-|Nov 24  | #12     |Anand #6 | THANKSGIVING
+|Sep 01  | #1      |Anand  | TBD
+|Sep 08  | #2      |Laurent | TBD
+|Sep 15  | #3      |Laurent | TBD (Anand Roman SRB doing CDR)
+|Sep 22  | #4      |Laurent    | TBD
+|Sep 29  | #5      |Laway    | TBD (Anand away 27-30)
+|Oct 06  | #6      |Laway    | TBD
+|Oct 13  | #7      |Laway   | TBD
+|Oct 20  | #8      |Laway  | TBD
+|Oct 27  | #9      |Laway   | TBD
+|Nov 03  | #10     |Anand | TBD
+|Nov 10  | #11     |Anand | TBD
+|Nov 17  | #12     |         | TBD
+|Nov 24  |         |	     | THANKSGIVING
 |Dec 01  | #13     |Class    | Term paper presentations
 
 
