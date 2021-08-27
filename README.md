@@ -84,22 +84,22 @@ these before the lecture.
 Weddays are used here - in the first scheduled class we decide on which day of the week we meet for 2h 30 min (with a short break in the middle)
 I also used to get guest lectures from eg you, Marshall when neither Ron or I could make it.  Ron used me for that when he taught by himself.  I just left 2018's lecturers in the table as a placeholder but put in dates away.
 
-| Date   | Class #  | Notes   | Topics
-|:------:|:-------:|-----------|--------------------------------------------------------------------------|
-|Sep 01  | #1      |Anand  | Pocket interferometer, coherence. 
-|Sep 08  | #2      |Laurent | TBD
-|Sep 15  | #3      |Laurent | TBD (Anand Roman SRB doing CDR)
-|Sep 22  | #4      |Laurent    | TBD
-|Sep 29  | #5      |Radio    | TBD (Anand away 27-30)
-|Oct 06  | #6      |Anand    | TBD
-|Oct 13  | #7      |Anand   | TBD
-|Oct 20  | #8      |Anand  | TBD
-|Oct 27  | #9      |Anand/Laurent   | TBD
-|Nov 03  | #10     |Laurent | TBD
-|Nov 10  | #11     |Laurent | TBD
-|Nov 17  | #12     |         | TBD
-|Nov 24  |         |	     | THANKSGIVING
-|Dec 01  | #13     |Class    | Term paper presentations
+| Date   | Class #  | Notes    | Topics                                                                   |  Homework
+|:------:|:-------:|-----------|--------------------------------------------------------------------------|-----------------------------------------------------------|
+|Sep 01  | #1      |Anand      | Course structure, meeting date, martixdft & hcipy,  pocket interferometer, coherence, FT defs   |   upload, run a test DFT, testhcipy
+|Sep 08  | #2      |Laurent    | Justify Fourier transform, using sky-telescope aperture    |    dft:sampling, aliasing, numpix variation,... , prep for Fourier thms show&tell
+|Sep 15  | #3      |Laurent    | Image formation for 'one dish' telescope                   |    ?
+|Sep 22  | #4      |Laurent    | Image formation for long baseline interferometer           |   Labeyrie interferometer numerical example?
+|Sep 29  | #5      |Jens       | (A away 27-30)  NRM+KP principles, (reduction example?)    |   Test analysis of binary w/CANDID or Jens' pkg?
+|Oct 06  | #6      |Anand      | Lyot principles, BLC 'perfect' grey APLC                   |   student CoDR reviews of BLC, FQPM Self-coherent, vortex, Bracewell Nuller
+|Oct 13  | #7      |Anand      | CoDR RFA student presentations                             |       
+|Oct 20  | #8      |Anand      | TBD                            |       
+|Oct 27  | #9      |Anand/Laurent   | TBD                       |       
+|Nov 03  | #10     |Laurent    | TBD                            |       
+|Nov 10  | #11     |Laurent    | TBD                            |       
+|Nov 17  | #12     |           | TBD                            |       
+|Nov 24  |         |	       | THANKSGIVING                   |       
+|Dec 01  | #13     |Class      | Term paper presentations       |       
 
 
 ### On-line course evaluation:  IS THIS CURRENT? (Kelly?)
