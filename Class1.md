@@ -25,4 +25,64 @@ We will often assign problem sets and/or reading -
 attempt the problems and read the material **before the next class**.
 The goal of your reading is to acquiant you with the relevant ideas, framework,
 vocabulary, and formalism.  The problems then give you an opportunity to try working
-these before the lecture.
+these before the lecture.  In class discussion of the assigned reading is likely.
+
+We understand absences due to observing or other factors, and will help you catch up.
+
+
+
+
+### Class 1: Theoretical and numerical Fourier machinery 
+#### The 5-cent tour in this class here  - to be covered in depth later
+
+**Remember the goal of the pre-class work is to think about the
+  concepts/questions, you are not expected to have complete answers ready for the 
+  in-class discussion.**
+
+- We aim to unify theoretical and numerical views of Fourier optics.  These
+  will be examined in much more depth in later classes.
+- We will mention the mathematical definition of the Fourier transform and link
+  it to an important property of an optical system.
+- We set up code to calculate the response of an optical telescope to an
+  infinitely distant, monochromatic, unpolarized  point source.
+
+
+#### Theoretical work in preparation for Class #2
+	
+Look up concepts of Fourier transforms and Fourier optics, and [re]familiarize
+yourself with the key concepts/phrases in this section.
+##### The 1-dimensional Fourier transform of a function f(x)
+
+   Write down one of the forms of the forward and reverse transforms, and think
+   about the nature of the forward transform formula.  I refer to the two
+   domains' coordinates as x and k, often interpreted as spatial and spatial
+   frequency (or time and frequency)  coordinates.  In quantum mechanics k is
+   thought of as a momentum space.  (Bracewell p6, or this link to a [pdf from
+   a
+   course](https://www2.ph.ed.ac.uk/~wjh/teaching/Fourier/documents/properties.pdf)
+   at Cambridge)
+	
+   What kind of 1-d functions (real, complex, ...) are amenable to being
+   transformed?  Here I use the notation f(x) for the function F(k) for its
+   forward transform.  (This is a quick overview, we're not looking for all the
+   mathematical prequisites of the function)
+    
+   Are the domains of f and F (the spaces that x or k live in) real or complex?
+
+   Are f and F, deep down, equivalent descriptions of the same information?
+   Does the Fourier transform of a function lose informaton that was present in
+   the original function?   What's the clinching argument that supports your
+   conclusion?
+	
+##### Incoherent vs. coherent emission of light from distinct points an extended object.
+
+   Does an atom on one side of a (non-rotating) star emit spectral line
+   radiation in phase with (coherent with) another atom of the same element on
+   the other side of the star, both emitting light in the same spectral line?
+   Do the two atoms communicate with each other to collaborate on releasing
+   radiation coherent with each other? How is this different from a gas in a
+   laser cavity where many atoms contribute to coherent radiation?
+
+ **We only consider looking at objects made up of points that do not radiate
+    coherently with respect to other points of the object.**
+
