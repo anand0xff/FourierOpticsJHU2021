@@ -145,4 +145,49 @@ yourself with the key concepts/phrases in this section.
    (in your mind) to this in-memory array --- what physical thing does the
    numerical array span?  What physical quantity is represented by a complex
    number (an element) of this numerical array?
+   
+   
+   	
+   **Exercise 1: familiarity with matrixDFT (see testMFT.py)** 
+   
+   Create a real 2-D 100 x 100 pupil array
+   (e.g. by using makedisk() from TestDFT.py), unity over a
+   circular pupil, zero elsewhere, and a zero-filled
+   real phase array of the same size.  Call makedisk() with radius=50.0
+	
+   Create a complex array representing the "complex amplitude" of a flat wave
+   arriving at the pupil from a 'straight-on' (i.e. on-axis) very distant
+   source (phase=0 everywhere): 
+	
+   	pupilarray = pupil * np.exp(1j * phase)
+	# Calculate the Fourier transform of pupilarray:
+
+  	import poppy.matrixDFT as matrixDFT
+  	mft = matrixDFT.MatrixFourierTransform()
+  	imagefield = mft.perform(pupilarray, focalplane_size, focalplane_npix)
+  	
+  
+  	### the pupil field is complex ###
+  	### the image field is complex ###
+  	### ALL FIELDS ARE COMPLEX.    ###  even if they have zero imaginary values
+  	### INTENSITY is REAL, >= 0    ###
+	    
+   using 100 and 400 for focalplane_size (in resolution elements lambda/D, implicit) and focalplane_npix (pur number, integer).  Write the
+   imagefield absolute value and phase (the np_array.angle property) into a
+   2-slice fits cube (for example)  and look at them.  
+   
+   I count two reals, p and q, in one complex python number p+1j*q
+
+- How many distict real numbers are there in an arbitrary complex pupilarray?
+- How many real numbers are in the imagefield complex array in the two cases
+  you just calculated?
+
+-  How do you calculate the image intensity array from the imagefield array
+   (in python)?  All the image intensity array's elements are, of course, positive or zero.
+	
+-  What physical dimensions do you give to the image array sample pitch
+   (incorrectly but frequently called 'image pixel size')?  It helps to know
+   the theoretical structure of a perfect point spread function of a circular
+   telescope.  Remind yourself of the term "resolution limit" from the
+   theoretical part above.
 
