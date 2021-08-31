@@ -1,9 +1,9 @@
-#### Anand. 
-Mon ending before 2pm. 
-Tue Ending before noon. 
-Wed any time. 
-Thu any time. 
-Fri ending before 2. 
+#### Anand.  
+Mon ending before 2pm.  
+Tue Ending before noon.  
+Wed any time.  
+Thu any time.  
+Fri ending before 2.  
 
 #### Laurent. 
 Monday anytime after 2 pm   
