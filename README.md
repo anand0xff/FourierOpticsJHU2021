@@ -1,9 +1,50 @@
 # FourierOpticsJHU2021
 Anand Sivaramakrishnan,  anand@stsci.edu
 Laurent Pueyo, pueyo@stsci.edu
+
 First class 1:30-2:45 pm Tuesday Aug 31 2021,  Bloomberg 511.  We will arrange a double slot that suits everyone then, and meet once a week from there on.  The first class will likely not last the full period.
 
+
+#### Course Content
+
+We focus on the practical application of Fourier transforms in modern
+observational astronomy.  Fourier transforms provide a framework for
+understanding much of astronomical instrumentation and its observational
+methods: imaging cameras, spectrographs, coronagraphs, interferometers,
+time-series analysis, correlation methods, filtering, and many object detection
+methods.  We will treat direct and synthetic imaging, discussing instruments
+that span the electromagnetic spectrum from radio to ultraviolet.
+
 ### Course requirements
+
+#### Textbook
+
+1. The best textbook for this class is still:
+
+     R.N. Bracewell, "The Fourier Transform and Its Applications" (Third Edition, Mcgraw-Hill, 2000).
+
+   This book is unfortunately out of print and has been so for some time. The
+   remaining stock is expensive. If you can find a copy somewhere, borrow it,
+   or buy it second-hand if you can.  This book is very good, and former
+   versions of this class used it extensively.
+   If you can obtain a copy in any format it will be a valuable reference for you in the
+   future. Some assigned reading and problem sets will come from this book.
+   
+2. Useful background paper:
+  
+     John D. Monnier & Ronald J. Allen, "Radio & Optical Interferometry:  Basic
+   Observing Techniques and Data Analysis".
+
+   This is Chapter 7 of Volume 2 from an (outrageously) expensive anthology titled
+   "Planets, Stars and Stellar Systems", published in late 2012 by Springer. Our
+   chapter treats interferometry both in optical/IR astronomy and in radio
+   astronomy from a unified viewpoint, focusing on the physical foundations and
+   the corresponding practical issues that beginning researchers need to know.
+   Available as a preprint on astro-ph at:  http://arxiv.org/abs/1201.2963
+ 
+   
+3. Articles:  Mostly via ADS.
+  
 
 #### Course structure:
 
@@ -11,11 +52,6 @@ First class 1:30-2:45 pm Tuesday Aug 31 2021,  Bloomberg 511.  We will arrange a
    regular attendance and in-class participation is expected.  Unavoidable
    absences (such as observing runs) should be discussed with us beforehand.
 
-   Inspired by 
-   2001 BEC Nobel laureate [Carl Wieman](http://www.cwsei.ubc.ca/)'s work
-   on improving STEM teaching, we use the "reading and homework first, lecture second" method.
-   Feedback and comments are especially welcome as the class progresses,
-   as this our trial run using Wieman's style of teaching.
    
 #### Grade
 
@@ -44,7 +80,8 @@ these before the lecture.
    
 3. Complete your homework and turn it in by the start of the following class
    (email to ** jhu.fourieroptics@gmail.com ** or hardcopy).
-   Before class ends we will assign the pre-class homework for the following class.
+   Before class ends we will assign the pre-class homework for the following class, 
+   until we drop homework for your term paper preparation.
 
 #### Term Paper and Oral Presentation:
 
@@ -56,32 +93,32 @@ these before the lecture.
   Choose your topic early in the class; first full drafts are due before
   the Thanksgiving break, and ought to be 4 - 5 pages long (single-spaced) plus
   figures. You may use any text processor/formatter you please, but if you have
-  no preference you are encouraged to use LaTeX2e with a "class" file from one
+  no preference, use LaTeX2e with a "class" file from one
   of the common astronomy journals (e.g. aastex.cls).
 
   A stand-up presentation on the topic of your term paper is required.
   You will have about 30 minutes to present and respond to questions 
   from the audience.
-  We will do this in the last class, early December.
+  We will do this in the last class.
 
   ** Start discussing topics as early as possible **
 
-#####  Term paper milestones
+#####  Term paper milestones (week starting on dates below)
 + Topic with suggested section titles
-    - Due week of Class #4.
+    - Due week of Class #4.  Sep 20.  
 	- What is the tie in to course matter? E.g., Appropriate survey/new ideas?
 	- Potentially publishable? (start discussing early)
 + Rough draft 2-3 pages
-    - Due week of Class #6.  
+    - Due week of Class #6.  Oct 04.    
 	- Demonstrate relevance, feasibility
 	- Almost final section definitions, section entries with substance/detailed plan
-+ First full draft submission, 4-5 pages
++ First full draft submission, 4-5 pages.  Nov 19.  
 	- Before Thanksgiving break
-+ Final paper due at presentation
++ Final paper due at presentation.  Nov 29.  
 
 ### Class Schedule
-Weddays are used here - in the first scheduled class we decide on which day of the week we meet for 2h 30 min (with a short break in the middle)
-I also used to get guest lectures from eg you, Marshall when neither Ron or I could make it.  Ron used me for that when he taught by himself.  I just left 2018's lecturers in the table as a placeholder but put in dates away.
+Mondays of the week are used here - in the first scheduled class we decide on which day of the week we meet for 2h 30 min (with a short break in the middle)
+We will have a couple of guest lectures from active specialists.
 
 | Date   | Class #  | Notes    | Topics                                                                   |  Homework
 |:------:|:-------:|-----------|--------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -91,7 +128,7 @@ I also used to get guest lectures from eg you, Marshall when neither Ron or I co
 |Sep 20  | #4      |Laurent    | Image formation for long baseline interferometer           |   Labeyrie interferometer numerical example?
 |Sep 27  | #5      |Jens       | (A away 27-30)  NRM+KP principles, (reduction example?)    |   Test analysis of binary w/CANDID or Jens' pkg?
 |Oct 04  | #6      |Anand      | Lyot principles, BLC 'perfect' grey APLC                   |   student CoDR reviews of BLC, FQPM Self-coherent, vortex, Bracewell Nuller
-|Oct 11  | #7      |Anand      | CoDR RFA student presentations                             |       
+|Oct 11  | #7      |Anand      | CoDR RFA student micro-presentations/discussion                             |       
 |Oct 18  | #8      |Anand      | TBD                            |       
 |Oct 25  | #9      |Anand/Laurent   | TBD                       |       
 |Nov 01  | #10     |Laurent    | TBD                            |       
@@ -101,7 +138,9 @@ I also used to get guest lectures from eg you, Marshall when neither Ron or I co
 |Nov 29  | #13     |Class      | Term paper presentations       |       
 
 
-### On-line course evaluation:  IS THIS CURRENT? (Kelly?)
+### On-line course evaluation:  NEED CURRENT INFORMATION
+
+The 2018 class used: 
 
 	From: ASEN Course Evals <ASENCourseEvals@jhu.edu>
 	Date: Monday, November 19, 2018 at 12:05 A
