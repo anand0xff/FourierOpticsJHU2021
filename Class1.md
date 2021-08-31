@@ -29,8 +29,9 @@ these before the lecture.  In class discussion of the assigned reading is likely
 
 We understand absences due to observing or other factors, and will help you catch up.
 
+**Class roster:	First name, last name, preferred email address**. 
 
-
+-
 
 ### Class 1: Theoretical and numerical Fourier machinery 
 #### The 5-cent tour in this class here  - to be covered in depth later
@@ -85,4 +86,63 @@ yourself with the key concepts/phrases in this section.
 
  **We only consider looking at objects made up of points that do not radiate
     coherently with respect to other points of the object.**
+    
+    
+##### Fraunhofer or far field diffraction 
+
+   Diffraction of a monochromatic unpolarized plane wave (e.g. from a distant
+   unreolved star) through an aperture, and the "Fresnel length" that helps
+   decide when the far field (a.k.a. Fraunhofer) limit calculations are valid.  
+
+   What are the physical units of coordinates in the **aperture** plane?  The
+   image plane?  (Recall that you're "taking a picture of a point-like star"
+   here).  Also note that the terms aperture and **pupil** are used
+   interchageably here.
+
+
+   We assert that the far field diffraction pattern (its ** image plane field
+   strength ** is the Fourier transform of the wave's field strength in the
+   aperture plane.  We'll derive this later.
+
+   What is the diffraction limit or [angular] resolution of a telescope?  In a
+   perfect image from a circular telescope, the intensity is described by an **Airy disk**.  The first zero of this azimuthally symmetric function occurs
+   at a radius of 1.22.  How does this translate into a real-world perfect
+   image at a given wavelength, with a particular telescope diameter?
+
+   Describing light numerically/mathematically: a plane wave of monochromatic
+   light (in a homogenous or non-dispersive medium or vacuum, with spatial
+   coordinates (x,y,z) is a propagating oscillation of the electric and magnetic
+   fields.  
+   
+   One of the fields - let's say the electric field,  can be expressed by the
+   real part of a complex number that has a (real) **amplitude**  A and a
+   unit-strength **phasor** exp(i(kz - wt + phi(x,y))).  Here we use w
+   instead of the usual Greek omega. phi(x,y) is the (real) **phase**
+   (out-of-plane corrugation) of the **wavefront**.  A wavefront is a
+   surface of constant phase.  The wave moves in the z direction at
+   speed w/k (why is that so? What is actually moving?).
+   Wikipedia has a nice [animated review](https://en.wikipedia.org/wiki/Plane_wave)
+   of this.
+
+   We often drop the "purely propagating" multiplicative factor, exp(i(kx - wt)),
+   of the phasor, and just work on the in-plane phase disturbances exp(i
+   phi(x,y)).  This will be justified later.  With this shorthand the wave's 
+   ** complex amplitude ** is written  A exp(i phi(x,y)).
+    
+   What mathematical/numerical operation must you perform on a complex array
+   describing the wave's complex amplitude to get a real array proportional to
+   the intensity (brightness) that a CCD or IR array might detect?
+			
+   The concept of the pupil (or aperture) plane of an optical system (in the
+   x,y plane), and its illumination by monochromatic light from a distant star.
+   One resource is [ApJ vol.  552 pp.397-408,
+   2001](https://ui.adsabs.harvard.edu/#abs/2001ApJ...552..397S/abstract)
+   Section 2.1 equation 1 and surrounding very short text.
+	
+   Describing the pupil quantitatively (e.g. equation 2 of the above paper):  if
+   you create a numpy array that represents a circular aperture telescope
+   without a secondary obstruction, what are the physical dimensions you assign
+   (in your mind) to this in-memory array --- what physical thing does the
+   numerical array span?  What physical quantity is represented by a complex
+   number (an element) of this numerical array?
 
