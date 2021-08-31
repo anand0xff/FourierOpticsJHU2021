@@ -192,4 +192,20 @@ yourself with the key concepts/phrases in this section.
    the theoretical structure of a perfect point spread function of a circular
    telescope.  Remind yourself of the term "resolution limit" from the
    theoretical part above.
+   
+   
+   
+    "Principles of Optics" M. Born & E. Wolf, 1975 (Pergamon).  A new edition
+    of this ancient classic was announced a few years ago. Even the older
+    editions have all the basic material you are likely to need. I use the 5th
+    edition.  This book is the bible for physical optics.
+    
+    "Introduction to Fourier Optics" J. W. Goodman, (McGraw-Hill, second edition,
+    1996) (expensive). More formal in the math.
+    
+    ["Interferometry and Synthesis in Radio
+    Astronomy"](http://adsabs.harvard.edu/abs/2017isra.book.....T) A.R.
+    Thompson, J.M. Moran, & G.W. Swenson, (Springer, 2017). This is the bible
+    for the subject as applied to radio astronomy. PDF downloadable via the
+    link above.
 
