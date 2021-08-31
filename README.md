@@ -1,4 +1,6 @@
 # FourierOpticsJHU2021
+Anand Sivaramakrishnan,  anand@stsci.edu
+Laurent Pueyo, pueyo@stsci.edu
 First class 1:30-2:45 pm Tuesday Aug 31 2021,  Bloomberg 511.  We will arrange a double slot that suits everyone then, and meet once a week from there on.  The first class will likely not last the full period.
 
 ### Course requirements
@@ -35,14 +37,11 @@ vocabulary, and formalism.  The problems then give you an opportunity to try wor
 these before the lecture.
 
 1. Attempt every problem before class. This prep work is essential for
-   the ** in-class discussion amongst yourselves ** 
-   during the first quarter of each class.
-   Air your confusion or clarity on the concepts and details, and help each other.
-   This discussion is a major vehicle of learning in the class.  
+   the ** in-class discussion amongst yourselves and with us** 
+   early in the class.
+   Air your confusion/clarity on concepts and details, and help each other.
+   Discussion is part of learning in the class.  
    
-2. The professor(s) will listen to your discussion, and tailor the 
-   lecture to areas that need more attention.
-
 3. Complete your homework and turn it in by the start of the following class
    (email to ** jhu.fourieroptics@gmail.com ** or hardcopy).
    Before class ends we will assign the pre-class homework for the following class.
@@ -52,9 +51,9 @@ these before the lecture.
   A term paper is required.  Topics will generally be taken from the
   historical/research literature on coronography, interferometry, and aperture
   synthesis in radio and optical astronomy.  You may suggest your own topic.
-  ** The subject matter must be approved by Ron and Anand **.
+  **The subject matter must be approved by Anand and Laurent**.
 
-  Topics will generally be chosen early in the class; first full drafts are due before
+  Choose your topic early in the class; first full drafts are due before
   the Thanksgiving break, and ought to be 4 - 5 pages long (single-spaced) plus
   figures. You may use any text processor/formatter you please, but if you have
   no preference you are encouraged to use LaTeX2e with a "class" file from one
@@ -63,18 +62,17 @@ these before the lecture.
   A stand-up presentation on the topic of your term paper is required.
   You will have about 30 minutes to present and respond to questions 
   from the audience.
-  Many students use PowerPoint (or an equivalent) for this.
-  We will do this in early December.
+  We will do this in the last class, early December.
 
   ** Start discussing topics as early as possible **
 
 #####  Term paper milestones
 + Topic with suggested section titles
-    - Due week of Class #4 (September nn).
+    - Due week of Class #4.
 	- What is the tie in to course matter? E.g., Appropriate survey/new ideas?
 	- Potentially publishable? (start discussing early)
 + Rough draft 2-3 pages
-    - Due October nn (week of Class #6)
+    - Due week of Class #6.  
 	- Demonstrate relevance, feasibility
 	- Almost final section definitions, section entries with substance/detailed plan
 + First full draft submission, 4-5 pages
@@ -87,20 +85,20 @@ I also used to get guest lectures from eg you, Marshall when neither Ron or I co
 
 | Date   | Class #  | Notes    | Topics                                                                   |  Homework
 |:------:|:-------:|-----------|--------------------------------------------------------------------------|-----------------------------------------------------------|
-|Sep 01  | #1      |Anand      | Course structure, meeting date, martixdft & hcipy,  pocket interferometer, coherence, FT defs   |   upload, run a test DFT, testhcipy
-|Sep 08  | #2      |Laurent    | Justify Fourier transform, using sky-telescope aperture    |    dft:sampling, aliasing, numpix variation,... , prep for Fourier thms show&tell
-|Sep 15  | #3      |Laurent    | Image formation for 'one dish' telescope                   |    ?
-|Sep 22  | #4      |Laurent    | Image formation for long baseline interferometer           |   Labeyrie interferometer numerical example?
-|Sep 29  | #5      |Jens       | (A away 27-30)  NRM+KP principles, (reduction example?)    |   Test analysis of binary w/CANDID or Jens' pkg?
-|Oct 06  | #6      |Anand      | Lyot principles, BLC 'perfect' grey APLC                   |   student CoDR reviews of BLC, FQPM Self-coherent, vortex, Bracewell Nuller
-|Oct 13  | #7      |Anand      | CoDR RFA student presentations                             |       
-|Oct 20  | #8      |Anand      | TBD                            |       
-|Oct 27  | #9      |Anand/Laurent   | TBD                       |       
-|Nov 03  | #10     |Laurent    | TBD                            |       
-|Nov 10  | #11     |Laurent    | TBD                            |       
-|Nov 17  | #12     |           | TBD                            |       
+|Aug 31  | #1      |Anand      | Course structure, meeting date, martixdft & hcipy,  pocket interferometer, coherence, FT defs   |   upload, run a test DFT, testhcipy
+|Sep 06  | #2      |Laurent    | Justify Fourier transform, using sky-telescope aperture    |    dft:sampling, aliasing, numpix variation,... , prep for Fourier thms show&tell
+|Sep 13  | #3      |Laurent    | Image formation for 'one dish' telescope                   |    ?
+|Sep 20  | #4      |Laurent    | Image formation for long baseline interferometer           |   Labeyrie interferometer numerical example?
+|Sep 27  | #5      |Jens       | (A away 27-30)  NRM+KP principles, (reduction example?)    |   Test analysis of binary w/CANDID or Jens' pkg?
+|Oct 04  | #6      |Anand      | Lyot principles, BLC 'perfect' grey APLC                   |   student CoDR reviews of BLC, FQPM Self-coherent, vortex, Bracewell Nuller
+|Oct 11  | #7      |Anand      | CoDR RFA student presentations                             |       
+|Oct 18  | #8      |Anand      | TBD                            |       
+|Oct 25  | #9      |Anand/Laurent   | TBD                       |       
+|Nov 01  | #10     |Laurent    | TBD                            |       
+|Nov 08  | #11     |Laurent    | TBD                            |       
+|Nov 15  | #12     |           | TBD                            |       
 |Nov 24  |         |	       | THANKSGIVING                   |       
-|Dec 01  | #13     |Class      | Term paper presentations       |       
+|Nov 29  | #13     |Class      | Term paper presentations       |       
 
 
 ### On-line course evaluation:  IS THIS CURRENT? (Kelly?)
