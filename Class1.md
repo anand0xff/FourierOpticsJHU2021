@@ -1,6 +1,11 @@
 ### 171.755  Fourier Optics Class #1
 ###  Intro, requirements, class software, scalar field, far field
 
+**Introductions: Anand, Laurent, students**.  
+**Class roster:	Personal name, family name, supervisor & topic (?), preferred email**. 
+
+-
+
 #### Soon after Class #1, and before Class #2, you need to have the following: 
 
 - anaconda with python 3.8 on your laptop into a conda envirionment (I call mine py38)
@@ -28,8 +33,6 @@ vocabulary, and formalism.  The problems then give you an opportunity to try wor
 these before the lecture.  In class discussion of the assigned reading is likely.
 
 We understand absences due to observing or other factors, and will help you catch up.
-
-**Class roster:	First name, last name, preferred email address**. 
 
 -
 
@@ -148,7 +151,7 @@ yourself with the key concepts/phrases in this section.
    
    
    	
-   **Exercise 1: familiarity with matrixDFT (see testMFT.py)** 
+   **Numerical Exercise 1: familiarity with matrixDFT (see testMFT.py)** 
    
    Create a real 2-D 100 x 100 pupil array
    (e.g. by using makedisk() from TestDFT.py), unity over a
