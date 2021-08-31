@@ -3,7 +3,7 @@
 
 **Introductions: Anand, Laurent, students**.  
 **Class roster:	Personal name, family name, supervisor & topic (?), preferred email**.   
-**Course outline on github anand0xff**
+**Course outline on github anand0xff/FourierOpticsJHU2021**
 
 #### Soon after Class #1, and before Class #2, you need to have the following: 
 
