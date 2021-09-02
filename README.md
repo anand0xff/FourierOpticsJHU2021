@@ -102,7 +102,7 @@ these before the lecture.
    Discussion is part of learning in the class.  
    
 3. Complete your homework and turn it in by the start of the following class
-   (email to ** jhu.fourieroptics@gmail.com ** or hardcopy).
+   (email to ** jhu.fourier@gmail.com ** or hardcopy).
    Before class ends we will assign the pre-class homework for the following class, 
    until we drop homework for your term paper preparation.
 
