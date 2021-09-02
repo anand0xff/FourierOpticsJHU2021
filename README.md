@@ -28,9 +28,11 @@ that span the electromagnetic spectrum from radio to ultraviolet.
    or buy it second-hand if you can.  This book is very good, and former
    versions of this class used it extensively.
    If you can obtain a copy in any format it will be a valuable reference for you in the
-   future. Some assigned reading and problem sets will come from this book.
+   future. A DJVu format is best.  (I use DjVuLibre DjView to view it on OS X Big Sur and 
+   older OS X's).  Some assigned reading and problem sets will come from this book.
    
-2. Useful background paper:
+   
+2. Some useful background papers on interferometry:
   
      John D. Monnier & Ronald J. Allen, "Radio & Optical Interferometry:  Basic
    Observing Techniques and Data Analysis".
@@ -40,10 +42,31 @@ that span the electromagnetic spectrum from radio to ultraviolet.
    chapter treats interferometry both in optical/IR astronomy and in radio
    astronomy from a unified viewpoint, focusing on the physical foundations and
    the corresponding practical issues that beginning researchers need to know.
-   Available as a preprint on astro-ph at:  http://arxiv.org/abs/1201.2963
- 
+   Available free as an astro-ph   [preprint](http://arxiv.org/abs/1201.2963)
    
-3. Articles:  Mostly via ADS.
+  
+   [Optical Interferometry in Astronomy](https://arxiv.org/abs/astro-ph/0307036) is
+    Monnier's summary of non-redundant masking (closure phases, closure amplitudes, etc.).
+   
+3.  "Principles of Optics" M. Born & E. Wolf, 1975 (Pergamon).  This book is the 
+    bible for physical optics.  Several editions exist. Even the older
+    editions have all the basic material you are likely to need.  You do not need to buy it.  
+    
+4.   "Introduction to Fourier Optics" J. W. Goodman, (McGraw-Hill, second edition,
+    1996) (expensive). More formal in the math.  I have a copy if anyone wants to borrow it
+    for a week or two.
+    
+5. ["Interferometry and Synthesis in Radio
+    Astronomy"](http://adsabs.harvard.edu/abs/2017isra.book.....T) A.R.
+    Thompson, J.M. Moran, & G.W. Swenson, (Springer, 2017). This is the bible
+    for the subject as applied to radio astronomy. PDF downloadable via the
+    link above.  Details on radio interferometry - closure quantities, calibration, 
+    image reconstruction.  Newer techniques have been added to the latter.
+   
+6. Articles:  Mostly via the Astrophysical Data System 
+   [ADS](http://adsabs.harvard.edu/ads_abstracts.html) which points to
+   free Arxiv versions when they exist.
+
   
 
 #### Course structure:
@@ -138,7 +161,7 @@ We will have a couple of guest lectures from active specialists.
 |Nov 29  | #13     |Class      | Term paper presentations       |       
 
 
-### On-line course evaluation:  NEED CURRENT INFORMATION
+### On-line course evaluation:  NEEDS UPDATING.
 
 The 2018 class used: 
 

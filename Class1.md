@@ -107,7 +107,8 @@ yourself with the key concepts/phrases in this section.
    aperture plane.  We'll derive this later.
 
    What is the diffraction limit or [angular] resolution of a telescope?  In a
-   perfect image from a circular telescope, the intensity is described by an **Airy disk**.  The first zero of this azimuthally symmetric function occurs
+   perfect image from a circular telescope, the intensity is described by an **Airy disk**.  
+   The first zero of this azimuthally symmetric function occurs
    at a radius of 1.22.  How does this translate into a real-world perfect
    image at a given wavelength, with a particular telescope diameter?
 
