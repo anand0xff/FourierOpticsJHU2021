@@ -148,9 +148,9 @@ We will have a couple of guest lectures from active specialists.
 |Aug 31  | #1      |Anand      | Course structure, meeting date, martixdft & hcipy,  pocket interferometer, coherence, FT defs   |   upload, run a test DFT, testhcipy
 |Sep 06  | #2      |Laurent    | Justify Fourier transform, using sky-telescope aperture    |    dft:sampling, aliasing, numpix variation,... , prep for Fourier thms show&tell
 |Sep 13  | #3      |Laurent    | Image formation for 'one dish' telescope                   |    ?
-|Sep 20  | #4      |Laurent    | Image formation for long baseline interferometer           |   Labeyrie interferometer numerical example?
-|Sep 27  | #5      |Jens       | (A away 27-30)  NRM+KP principles, (reduction example?)    |   Test analysis of binary w/CANDID or Jens' pkg?
-|Oct 04  | #6      |Anand      | Lyot principles, BLC 'perfect' grey APLC                   |   student CoDR reviews of BLC, FQPM Self-coherent, vortex, Bracewell Nuller
+|Sep 20  | #4      |Anand & Laurent | Fourier familiarization - principle of coronagraph. Recap of path to Fourier optics           |   Vortex coronagraph student show and tell prep.,  Labeyrie interferometer numerical example?
+|Sep 27  | #5      |Laurent TBD       | (A away 27-30)  NRM+KP principles, (reduction example?)    |   Test analysis of binary w/CANDID or Jens' pkg?
+|Oct 04  | #6      |Anand      | TBD                   |   student CoDR reviews of BLC, FQPM Self-coherent, vortex, Bracewell Nuller
 |Oct 11  | #7      |Anand      | CoDR RFA student micro-presentations/discussion                             |       
 |Oct 18  | #8      |Anand      | TBD                            |       
 |Oct 25  | #9      |Anand/Laurent   | TBD                       |       
@@ -176,3 +176,4 @@ The 2018 class used:
 	- Any Engineering (EN) course with a minimum enrollment of at least 5 students. All EN department seminar, independent study, research, and internship based courses are excluded regardless of the number of students enrolled.
 
 	Each evaluation should take approximately 5-10 minutes to complete.
+``
