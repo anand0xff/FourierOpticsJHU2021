@@ -150,7 +150,7 @@ We will have a couple of guest lectures from active specialists.
 |Sep 13  | #3      |Laurent    | Image formation for 'one dish' telescope                   |    ?
 |Sep 20  | #4      |Anand & Laurent | Fourier familiarization - principle of coronagraph. Recap of path to Fourier optics.  Term paper topics this week.           |   Vortex coronagraph student show and tell prep.,  Labeyrie interferometer numerical example?
 |Sep 27  | #5      |Laurent       | Interferometry, Monnier\&Allen eq 1    |  Measure angular size of Vega 
-|Oct 04  | #6      |Anand      | TBD                   |   student CoDR reviews of BLC, FQPM Self-coherent, vortex, Bracewell Nuller
+|Oct 04  | #6      |Anand      | Nulling interferometers, perfect coronagraphs, speckle formation and noise                 |   student CoDR reviews of BLC, FQPM, Self-coherent, vortex,
 |Oct 11  | #7      |Anand      | CoDR RFA student micro-presentations/discussion                             |       
 |Oct 18  | #8      |Anand      | TBD                            |       
 |Oct 25  | #9      |Anand/Laurent   | TBD                       |       
