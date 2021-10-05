@@ -44,3 +44,23 @@ Imperfect but widespread:
 [The Structure of High Strehl Ratio Point-Spread Functions](https://ui.adsabs.harvard.edu/abs/2003ApJ...596..702P/abstract).  
  [Low-Order Aberrations in Band-limited Lyot Coronagraphs](https://ui.adsabs.harvard.edu/abs/2005ApJ...634.1416S/abstract)
 
+
+#### Homework from Class 6:
+
+**Pencil and paper**. To do this homework you will need some of the symmetry  properies of the transforms of real functions.  
+
+First, show that the Fourier transform of a real function is Hermitian.
+
+Next, convince yourself that the integral of a function over one domain is the value of its transform at its origin in the  other domain.  We did this in class as soon as we had the FT definition written on the board.
+
+In Class6/SpeckleExpansion\_math.pdf:   
+	- Derive Equation 8, starting from the three terms in Equation 7 multiplied by the pupil field function A(x)  
+	- The first order term (equation 10) has an "i" multplying everything in it.  Convince yourself that this term is real, in spite of that "i".  
+	-  What  is the noise implication of the "pinned" speckle term p1 for high contrast imaging?
+	-  Is the second order halo term zero at a location  in the image in k-space where a(k) = 0 (e.g. in a dark Airy ring)?  So is the ASF a multiplying factor in the second order halo term?
+	-  The RHS of equation 15 is unclear - it has the variance of  the  phase error (technically it should read   
+	"-\epsilon^2 {\sigma_\phi}^2)"   
+
+**Running and playing with code**  After class I will push a few drivers  that use the uils.py on the repo.  These will create phase ripple aberrations over circular apertures.    Investigate the behavior of single phase ripple errors - sines, cosines (symmetric & antisymmetric), arbitrary sinusoids, with various amplitudes (in radians).  "Smmall is of course << 1 raadian.  Large is up to a radian or so ripple amplitude.  Two different ripples show curious interractions.
+
+When displaying PSFs, use a fractional power, such  as 0.1, or slightly larger, to see  PSF structure clearly.  I expand the plots for clarity, so you will see rings and speckles clearly. 
