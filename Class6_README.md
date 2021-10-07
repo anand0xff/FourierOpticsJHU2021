@@ -35,6 +35,11 @@ Perfect:
 Imperfect but widespread:  
 [Apodized pupil Lyot coronagraph](https://ui.adsabs.harvard.edu/abs/2002A%26A...389..334A/abstract)
 
+#### Airy pattern units can be confusing...
+
+
+I found this concise and clear clear definition of the [Airy pattern's arguments](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/PSFtheory.pdf)
+
 
 
 #### Speckles in high contrast images
@@ -55,10 +60,10 @@ Next, convince yourself that the integral of a function over one domain is the v
 
 In Class6/SpeckleExpansion\_math.pdf:   
 	- Derive Equation 8, starting from the three terms in Equation 7 multiplied by the pupil field function A(x)  
-	- The first order term (equation 10) has an "i" multplying everything in it.  Convince yourself that this term is real, in spite of that "i".  
+	- The first order term (equation 10) has an "i" multiplying everything in it.  Convince yourself that this term is real, in spite of that "i".  
 	-  What  is the noise implication of the "pinned" speckle term p1 for high contrast imaging?
 	-  Is the second order halo term zero at a location  in the image in k-space where a(k) = 0 (e.g. in a dark Airy ring)?  So is the ASF a multiplying factor in the second order halo term?
-	-  The RHS of equation 15 is unclear - it has the variance of  the  phase error (technically it should read   
+	-  The RHS of equation 15 is unclear - it has the variance of  the  phase error.  Technically it should read   
 	"-\epsilon^2 {\sigma_\phi}^2)"   
 
 **Running and playing with code**  After class I will push a few drivers  that use the uils.py on the repo.  These will create phase ripple aberrations over circular apertures.    Investigate the behavior of single phase ripple errors - sines, cosines (symmetric & antisymmetric), arbitrary sinusoids, with various amplitudes (in radians).  "Smmall is of course << 1 raadian.  Large is up to a radian or so ripple amplitude.  Two different ripples show curious interractions.
