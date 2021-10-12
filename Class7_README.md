@@ -31,14 +31,17 @@ I found this concise and clear clear definition of the [Airy pattern's arguments
 
 
 #### Fourier joke:
+The mean tilt of a wavefront across an aperture does what to the intensity centroid of the image?  It's actuallly a "theorem" in optics - I refer to it in the appendix of a [1995 speckle paper](https://ui.adsabs.harvard.edu/abs/1995AJ....110..430S/abstract), the oldest reference I found is [Teague 1982](https://ui.adsabs.harvard.edu/abs/1982JOSA...72.1199T/abstract).  
 
-The mean tilt of a wavefront across an aperture does what to the intensity centroid of the image?  It's actuallly a "theorem" in optics - I refer to it in a [1995 speckle paper](https://ui.adsabs.harvard.edu/abs/1995AJ....110..430S/abstract), the original reference is [Teague 1982](https://ui.adsabs.harvard.edu/abs/1982JOSA...72.1199T/abstract).  Explore steps of phase across the apertture.  Where does aliiasing come in to confuse the limit?
+Explore steps of phase across the apertture.  Where does aliiasing come in to confuse the analytical  limit we see here?
+
+Postamble: SamplingTheorem.pdf
 
 
 #### 0. Homework from Class 6:
 
 **Pencil and paper**. To do this homework you will need some of the symmetry  properies of the transforms of real functions.  
-Last week: show that the Fourier transform of a real function is Hermitian, annd working on symmetry of FTs,, application to first order speckles.  
+Last week: show that the Fourier transform of a real function is Hermitian, and working on symmetry of FTs, application to first order speckles.  
 Exercises in psf expansion symmetries, effects on morphology, and Strehl raatio
 
 **Running and playing with code**    
@@ -56,12 +59,15 @@ Jinc ~ 1/k^(-3.2),  so  Airy PSF (intensity) ~ 1/k^3 so Encircled energy ~ 1/.
 
 #### 2: Smoothness of aperture boundary
 
-Compare square pupil  with  circular pupil.  Curvature of boundary.  Develop "Shaped pupil" for very dark areas of PSF.   [Jaquinot \& Roizen-Dossier](https://ui.adsabs.harvard.edu/abs/1964PrOpt...3...29J/abstract),   [Nisenson \& Papaliolios](https://ui.adsabs.harvard.edu/abs/2001ApJ...548L.201N/abstract),   [Kasdin et al.](https://ui.adsabs.harvard.edu/abs/2003ApJ...582.1147K/abstract).
+Compare square pupil  with  circular pupil.  Curvature of boundary.  Develop "Shaped pupil" for very dark areas of PSF.   [Jaquinot \& Roizen-Dossier](https://ui.adsabs.harvard.edu/abs/1964PrOpt...3...29J/abstract),   [Nisenson \& Papaliolios](https://ui.adsabs.harvard.edu/abs/2001ApJ...548L.201N/abstract).   
+Examples: [Kasdin et al.](https://ui.adsabs.harvard.edu/abs/2003ApJ...582.1147K/abstract).
 
 #### 3: Aliasing, Spatially filtered wavefront sensing   
+Fig 4 in rjaspeckle...pdf.  Wavefront correction is a high  pass filter for phase aberrations in pupil plane, cutoff is (lambda / 2 * actuator spacing) in image plane.
 
-#### 4: Wavefront aberrration effects on shaped pupils?
-flip side - field stops!
+#### 4: Wavefront aberrration effects on shaped pupils?   
+Figs 5 and 6 rjaspeckle...pdf   
+Flip side - field stops smush pupil because of low pass spatial filtering!
 
 #### 5: Apodized pupils:  PSF, FWHM, speckle behaviour 
 
