@@ -32,7 +32,7 @@ I found this concise and clear clear definition of the [Airy pattern's arguments
 
 #### Fourier joke:
 
-The mean tilt of a wavefront across an apertture does what to the intensity centroid of the image?  It's actuallly a "theorem" in optics - I refer to it in a [1995 speckle paper](https://ui.adsabs.harvard.edu/abs/1995AJ....110..430S/abstract), the reference is [Tyler 1994](https://ui.adsabs.harvard.edu/abs/1994JOSAA..11..358T/abstract).  Explore steps of phase across the apertture.  Where does aliiasing come in to confuse the limit?
+The mean tilt of a wavefront across an aperture does what to the intensity centroid of the image?  It's actuallly a "theorem" in optics - I refer to it in a [1995 speckle paper](https://ui.adsabs.harvard.edu/abs/1995AJ....110..430S/abstract), the original reference is [Teague 1982](https://ui.adsabs.harvard.edu/abs/1982JOSA...72.1199T/abstract).  Explore steps of phase across the apertture.  Where does aliiasing come in to confuse the limit?
 
 
 #### 0. Homework from Class 6:
