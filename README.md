@@ -151,12 +151,12 @@ We will have a couple of guest lectures from active specialists.
 |Sep 20  | #4      |Anand & Laurent | Fourier familiarization - principle of coronagraph. Recap of path to Fourier optics.  Term paper topics this week.           |   Vortex coronagraph student show and tell prep.,  Labeyrie interferometer numerical example?
 |Sep 27  | #5      |Laurent       | Interferometry, Monnier\&Allen eq 1    |  Measure angular size of Vega 
 |Oct 04  | #6      |Anand      | Nulling interferometers, perfect coronagraphs, speckle formation and noise                 |   student CoDR reviews of BLC, FQPM, Self-coherent, vortex,
-|Oct 11  | #7      |Anand      | CoDR RFA student micro-presentations/discussion                             |       
-|Oct 18  | #8      |Anand      | TBD                            |       
-|Oct 25  | #9      |Anand/Laurent   | TBD                       |       
-|Nov 01  | #10     |Laurent    | TBD                            |       
-|Nov 08  | #11     |Laurent    | TBD                            |       
-|Nov 15  | #12     |           | TBD                            |       
+|Oct 11  | #7      |Anand      | Speckle, speckle pinning, non-linearities, SFWFS, symmetries in FT                             | Exercise phase bump nb, present your experiments verbally in class      
+|Oct 18  | #8      |Anand     | AO, Wavefront sensing, defocus, Shack-Hartmann, Missell-Gerchberg-Saxton, GSGS, Electric field conjugation    | Prove "twinning problem" ambiguity on paper, install CASA and test it
+|Oct 25  | #9      | Anand   | uv coverage exploration, complex visibility, analytical monochromatic fringes, closure phases, calibrating interferometric observables.  The Martinache algebra of NRM/kernel phase.             | **Work on final draft of term paper**      
+|Nov 01  | #10     |Melissa Hoffman (STScI) and Peter Teuben (UMD)    | Radio interferometry with ALMA: synthesis imaging, wide field mosaicing                            | Prep: Install CASA and sample data, bring laptops.  **Deliver final draft of term paper**      
+|Nov 08  | #11     | Jens Kammerer (STScI)    | NRM and Kernel phase interferomtry                            | Polish/fix term paper
+|Nov 15  | #12     | Laurent  | TBD                            |       
 |Nov 24  |         |	       | THANKSGIVING                   |       
 |Nov 29  | #13     |Class      | Term paper presentations       |       
 
