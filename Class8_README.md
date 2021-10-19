@@ -14,14 +14,22 @@ Exercises in psf expansion symmetries, effects on morphology, and Strehl raatio
 - Two  ripples -  interaction?  Big ripples?  A zillion ripples?
 **Discuss**. 
 
+#### Look at README.md next few lectures - necessary homework
+
 #### Class presentations/verbal descriptions of phase bump experiments 
 
 #### Spatially filtered wavefront sensing (continued from class 7)
 
- - 2004 JOSA Poyneer & Mactintosh 
- - Shack Hartmann Wavefront Sensor (WFS) *{dictionary note}* Tokovinen fig  
+ - AO schematic
+ - Shack Hartmann Wavefront Sensor (WFS) *{dictionary note}* Tokovinen fig 
+ - 2004 JOSA Poyneer & Macintosh  
   
+#### Using defocus to measure aberrations 
 
+ - defocus\_SFsensitivity slides
+ - Gerchberg-Saxton+MGS\_Slides2019
 
-
+ 
+ **Homework: Twining problem - Prove the symmetry in 2016\_GSGS\_OpEx paper highlighted (pencil & paper)** 
+  
 
