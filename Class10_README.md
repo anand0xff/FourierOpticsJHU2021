@@ -1,5 +1,5 @@
 ### 171.755 Class 10: Melissa Hoffman (STScI) \& Peter Teuben (U Maryland)
-#### Radio interferometry, synthesis imaging, CASA
+#### Radio interferometry, synthesis imaging, ALMA, CASA
 
 **Install CASA on your laptop**.  
 Download button on [https://casa.nrao.edu/](https://casa.nrao.edu/).   
@@ -17,8 +17,8 @@ git clone https://github.com/teuben/dc2019.git
 
 ### Part 1: Melissa
 
-Intro to CASA data reduction pipeline, routine image reconstruction with CASA
+Intro to the ALMA telescope, the CASA data reduction pipeline, routine image reconstruction with CASA
 
 ### Part 2:  Peter
 
-Synthetic imaging beyond the CASA pipeline.  
+ALMA synthetic imaging beyond the CASA pipeline.  
