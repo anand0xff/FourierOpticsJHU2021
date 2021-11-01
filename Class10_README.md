@@ -12,7 +12,7 @@ After opening CASA, in its terminal window, type your first CASA commannd (it's 
 	[100Mb ALMA data set](http://admit.astro.umd.edu/~teuben/QAC/qac_bench5.tar.gz)
 
 **Clone Peter's scripts**:  
-git clone https://github.com/teuben/dc2019.git
+git clone https://github.com/teuben/dc2021.git
 
 
 ### Part 1: Melissa
