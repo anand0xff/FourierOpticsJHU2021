@@ -143,7 +143,9 @@ these before the lecture.
 Mondays of the week are used here - in the first scheduled class we decide on which day of the week we meet for 2h 30 min (with a short break in the middle)
 We will have a couple of guest lectures from active specialists.
 
-| Date   | Class#  | Notes    | Topics                                                                   |  Homework
+#### 2021 classes are on Tuesdays!
+
+| Week starting  | Class#  | Notes    | Topics                                                                   |  Homework
 |:------:|:-------:|-----------|--------------------------------------------------------------------------|-----------------------------------------------------------|
 |Aug 31  | #1      |Anand      | Course structure, meeting date, martixdft & hcipy,  pocket interferometer, coherence, FT defs   |   upload, run a test DFT, testhcipy
 |Sep 06  | #2      |Laurent    | Justify Fourier transform, using sky-telescope aperture    |    dft:sampling, aliasing, numpix variation,... , prep for Fourier thms show&tell
