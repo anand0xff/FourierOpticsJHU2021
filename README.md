@@ -2,6 +2,11 @@
 Anand Sivaramakrishnan,  anand@stsci.edu
 Laurent Pueyo, pueyo@stsci.edu
 
+
+https://JHUBlueJays.zoom.us/j/8512987178?pwd=cVhLMUtPaCs3MlNseE51ajRqOUhiQT09
+ 
+
+
 First class 1:30-2:45 pm Tuesday Aug 31 2021,  Bloomberg 511.  We will arrange a double slot that suits everyone then, and meet once a week from there on.  The first class will likely not last the full period.
 
 
